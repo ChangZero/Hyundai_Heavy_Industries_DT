@@ -52,7 +52,7 @@
 - docker
 
 ### Library
-- pycaret, pandas, numpy, pencv, statmodels, scipy, sklearn, matplotlib, seaborn, pulp, ortoolpy, itertools, ipython, roboflow
+- pycaret, pandas, numpy, opencv, statmodels, scipy, sklearn, matplotlib, seaborn, pulp, ortoolpy, itertools, ipython, roboflow
 
 ### Communication
 - Notion
