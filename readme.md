@@ -40,11 +40,27 @@
 -   [`권경호`]() &nbsp; • problem2
 -   [`이세현`]() &nbsp; • problem2
 
-## 2.Dependency management
+## 2 Stacks
+
+### Environment
+- Jupyter lab
+- colab
+
+### Framework
+- pytorch 1.12.1
+- tensorflow 2.10
+- docker
+
+### Library
+- pycaret, pandas, numpy, pencv, statmodels, scipy, sklearn, matplotlib, seaborn, pulp, ortoolpy, itertools, ipython, roboflow
+
+### Communication
+- Notion
+- Discord
 
 ## 3. Equipment & Software
 
-## 4.시연 영상
+## 4. Presentation
 
 ## 5. License
 
