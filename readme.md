@@ -20,11 +20,11 @@
 
 -   문제
 
-    1. CNC공작기계 작업 시간 예측 및 배분 최적화
-       1-1) 마킹시간, 절단시간 예측 알고리즘 개발
+    1. CNC공작기계 작업 시간 예측 및 배분 최적화<br>
+       1-1) 마킹시간, 절단시간 예측 알고리즘 개발<br>
        1-2) 최적 작업 배분 알고리즘 개발
 
-    2. 화물 이동 차량의 영상분석
+    2. 화물 이동 차량의 영상분석<br>
        화물 적재 유/무 판단(Classification)
 
 ### Team 쓸만한놈들
@@ -40,11 +40,27 @@
 -   [`권경호`]() &nbsp; • problem2
 -   [`이세현`]() &nbsp; • problem2
 
-## 2.Dependency management
+## 2 Stacks
+
+### Environment
+- Jupyter lab
+- colab
+
+### Framework
+- pytorch 1.12.1
+- tensorflow 2.10
+- docker
+
+### Library
+- pycaret, pandas, numpy, opencv, statmodels, scipy, sklearn, matplotlib, seaborn, pulp, ortoolpy, itertools, ipython, roboflow
+
+### Communication
+- Notion
+- Discord
 
 ## 3. Equipment & Software
 
-## 4.시연 영상
+## 4. Presentation
 
 ## 5. License
 
