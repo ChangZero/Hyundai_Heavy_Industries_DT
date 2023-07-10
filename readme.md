@@ -35,8 +35,8 @@
 
 #### 🏆 Contribution
 
--   [`김민혁`]() &nbsp; PM• problem2
--   [`김창영`](https://github.com/ChangZero) &nbsp; sub PM• problem1 • presenter
+-   [`김민혁`]() &nbsp; PM• problem1-1 • problem2
+-   [`김창영`](https://github.com/ChangZero) &nbsp; sub PM• problem1-1 • problem1-2 • problem2• presenter
 -   [`권경호`]() &nbsp; • problem2
 -   [`이세현`]() &nbsp; • problem2
 
