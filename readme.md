@@ -62,5 +62,5 @@
 - [발표자료](https://github.com/ChangZero/Hyundai_Heavy_Industries_DT/blob/main/%ED%98%84%EB%8C%80%EC%A4%91%EA%B3%B5%EC%97%85_DT_%EC%9D%B8%EB%A0%A5%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9.pdf)
 - [YouTube Link](https://youtu.be/G5zkH6HaRnk)
 
-  ## 4. Award
-  - 우수상(2nd prize)
+## 4. Award
+- 우수상(2nd prize)
