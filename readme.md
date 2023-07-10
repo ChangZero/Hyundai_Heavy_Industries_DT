@@ -36,7 +36,7 @@
 #### 🏆 Contribution
 
 -   [`김민혁`]() &nbsp; PM• problem2
--   [`김창영`]() &nbsp; sub PM• problem1 • presenter
+-   [`김창영`](https://github.com/ChangZero) &nbsp; sub PM• problem1 • presenter
 -   [`권경호`]() &nbsp; • problem2
 -   [`이세현`]() &nbsp; • problem2
 
@@ -45,11 +45,11 @@
 ### Environment
 - Jupyter lab
 - colab
+- docker
 
 ### Framework
 - pytorch 1.12.1
 - tensorflow 2.10
-- docker
 
 ### Library
 - pycaret, pandas, numpy, opencv, statmodels, scipy, sklearn, matplotlib, seaborn, pulp, ortoolpy, itertools, ipython, roboflow
@@ -58,12 +58,6 @@
 - Notion
 - Discord
 
-## 3. Equipment & Software
-
-## 4. Presentation
-
-## 5. License
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
+## 3. Presentation
+- [발표자료](https://github.com/ChangZero/Hyundai_Heavy_Industries_DT/blob/main/%ED%98%84%EB%8C%80%EC%A4%91%EA%B3%B5%EC%97%85_DT_%EC%9D%B8%EB%A0%A5%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9.pdf)
+- [YouTube Link](https://youtu.be/G5zkH6HaRnk)
