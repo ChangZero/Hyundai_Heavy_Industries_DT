@@ -31,7 +31,10 @@
 
 #### 👨‍👩‍👦‍👦 Members
 
-김민혁|김창영|권경호|이세현
+[`김민혁`]()|[`김창영`](https://github.com/ChangZero)|[`권경호`]()|[`이세현`]()
+
+#### 🤵 Adviser
+[`윤석훈`](https://sites.google.com/view/amnl-uou/) 교수
 
 #### 🏆 Contribution
 
