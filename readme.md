@@ -1,4 +1,4 @@
-# Hyundai_Heavy_Industries_DT
+# 업무프로세스 개선을 위한 관리자의 의사결정 프로그램
 
 -   현대중공업 DT 인력과정
 
